@@ -1,25 +1,25 @@
 {
   "files": {
-    "main.css": "/ItalianPlates/static/css/main.5ffb7962.css",
-    "main.js": "/ItalianPlates/static/js/main.a291029e.js",
-    "static/media/tiramisù.jpg": "/ItalianPlates/static/media/tiramisù.30155641c614b7ab4b46.jpg",
-    "static/media/Pizza1.jpg": "/ItalianPlates/static/media/Pizza1.201392ac5445d9427ffa.jpg",
-    "static/media/Pizza2.jpg": "/ItalianPlates/static/media/Pizza2.9a4b1da35fc93f7717db.jpg",
-    "static/media/Focaccia2.jpg": "/ItalianPlates/static/media/Focaccia2.d18413483b81dea1a573.jpg",
-    "static/media/Focaccia1.jpg": "/ItalianPlates/static/media/Focaccia1.dbfac15136445fc20028.jpg",
-    "static/media/Pizza3.jpg": "/ItalianPlates/static/media/Pizza3.29ad096f76d8df65a60d.jpg",
-    "static/media/Lasagna.jpg": "/ItalianPlates/static/media/Lasagna.3e949529f5c5e2690874.jpg",
-    "static/media/Focaccia3.jpg": "/ItalianPlates/static/media/Focaccia3.51d1e359ff1be41a7299.jpg",
-    "static/media/plate.jpg": "/ItalianPlates/static/media/plate.05ea31daf33a06d1c71b.jpg",
-    "static/media/github.svg": "/ItalianPlates/static/media/github.34ecfbbd9a3d4d98dfaa27b43831292c.svg",
-    "static/media/linkedin.svg": "/ItalianPlates/static/media/linkedin.ea15157d62352ad2085938a93d3d4182.svg",
-    "static/media/instagram.svg": "/ItalianPlates/static/media/instagram.2b50247a75467b0ea295ec7bd70eaea4.svg",
-    "index.html": "/ItalianPlates/index.html",
-    "main.5ffb7962.css.map": "/ItalianPlates/static/css/main.5ffb7962.css.map",
-    "main.a291029e.js.map": "/ItalianPlates/static/js/main.a291029e.js.map"
+    "main.css": "/static/css/main.5ffb7962.css",
+    "main.js": "/static/js/main.b3af7d75.js",
+    "static/media/tiramisù.jpg": "/static/media/tiramisù.30155641c614b7ab4b46.jpg",
+    "static/media/Pizza1.jpg": "/static/media/Pizza1.201392ac5445d9427ffa.jpg",
+    "static/media/Pizza2.jpg": "/static/media/Pizza2.9a4b1da35fc93f7717db.jpg",
+    "static/media/Focaccia2.jpg": "/static/media/Focaccia2.d18413483b81dea1a573.jpg",
+    "static/media/Focaccia1.jpg": "/static/media/Focaccia1.dbfac15136445fc20028.jpg",
+    "static/media/Pizza3.jpg": "/static/media/Pizza3.29ad096f76d8df65a60d.jpg",
+    "static/media/Lasagna.jpg": "/static/media/Lasagna.3e949529f5c5e2690874.jpg",
+    "static/media/Focaccia3.jpg": "/static/media/Focaccia3.51d1e359ff1be41a7299.jpg",
+    "static/media/plate.jpg": "/static/media/plate.05ea31daf33a06d1c71b.jpg",
+    "static/media/github.svg": "/static/media/github.34ecfbbd9a3d4d98dfaa27b43831292c.svg",
+    "static/media/linkedin.svg": "/static/media/linkedin.ea15157d62352ad2085938a93d3d4182.svg",
+    "static/media/instagram.svg": "/static/media/instagram.2b50247a75467b0ea295ec7bd70eaea4.svg",
+    "index.html": "/index.html",
+    "main.5ffb7962.css.map": "/static/css/main.5ffb7962.css.map",
+    "main.b3af7d75.js.map": "/static/js/main.b3af7d75.js.map"
   },
   "entrypoints": [
     "static/css/main.5ffb7962.css",
-    "static/js/main.a291029e.js"
+    "static/js/main.b3af7d75.js"
   ]
 }
