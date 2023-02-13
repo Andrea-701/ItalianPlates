@@ -1,0 +1,31 @@
+
+
+.footer-container{
+    position: relative;
+    width: 100%;
+    background: linear-gradient(45deg, #7FFFD4, #6495ED);
+    padding: 0.5em;
+    bottom: -7em;
+}
+
+.social{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    list-style: none;
+    width: 100%;
+    margin-top: 2em;
+}
+
+.social-link{
+
+    width: 50px;
+    margin: 1em;
+    cursor: pointer;
+
+}
+
+.paragraph{
+    margin: 0;
+}

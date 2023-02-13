@@ -1,0 +1,76 @@
+.Navbar{
+    height: 80px;
+    width: 100%;
+    padding: 1.2rem;
+    background: linear-gradient(45deg, #7FFFD4, #6495ED);
+    font-size: 1.25em;
+    /*opacity: 0.9;*/
+}
+
+
+.NavLinks{
+    display: flex;
+    flex-direction: row;
+    list-style: none;
+    justify-content: right;
+}
+
+.list-item{
+    margin: 0.25em 2em;
+}
+
+.navlink{
+    text-decoration: none;
+    color: black;
+    transition: 0.3s all;
+}
+
+.navlink:hover{
+    color: blueviolet;
+    background-color: none;
+}
+
+.logo{
+
+    position: absolute;
+    padding: 2em;
+    left: 1em;
+    top: -1.5em;
+
+}
+
+.logo:hover{
+    cursor: pointer;
+    background: none;
+}
+
+
+@media only screen and (max-width: 500px){
+    .Navbar{
+        position: relative;
+        height: 8em;
+    }
+
+    .NavLinks{
+        display: flex;
+        flex-direction: column;
+        position: absolute;
+        text-align: center;
+        width: 100%;
+        top: -0.25rem;
+        left: 0.25em;
+        transition: 0.5s all;
+    }
+
+    .list-item{
+        padding: 0.4rem;
+    }
+    
+    .logo{
+
+        position: absolute;
+        left: -1em;
+        margin: 0.5em;
+
+    }
+} 
